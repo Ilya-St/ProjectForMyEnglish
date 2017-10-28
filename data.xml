@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glossary>
+    <record id = "0" endRec = "t">
+        <word>computer</word>
+        <values num="1">
+            <value id = "0">компьютер</value>
+        </values>
+    </record>
+</glossary>
